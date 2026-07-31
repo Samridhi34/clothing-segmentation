@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+dataset/images/
+dataset/masks/
+*.pth
+sample_predictions/
